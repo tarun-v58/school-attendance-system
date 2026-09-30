@@ -1,0 +1,13 @@
+# Sensitive environment variables
+.env
+
+# Virtual environments
+venv/
+school_system/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# PyCharm configuration folder
+.idea/
